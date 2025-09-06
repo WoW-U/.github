@@ -7,11 +7,11 @@ tools.
 
 ## Unlocker
 
-- [Daemonic](https://github.com/WoW-U/vscode-daemonic-api)
+- [Daemonic](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.daemonic-lua-api) ([source](https://github.com/WoW-U/vscode-daemonic-api))
 - N*****e ([DM me](https://discordapp.com/users/224628871633305611))
-- T***r (in progress)
+- T***r (in progress) ([source](https://github.com/WoW-U/vscode-tinkr-api))
 
 ## Bot
 
-- [GMR](https://github.com/WoW-U/vscode-gmr-api)
-- B****o (in progress)
+- [GMR](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.gmr-lua-api) ([source](https://github.com/WoW-U/vscode-gmr-api))
+- [Baneto](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.baneto-lua-api)  ([source](https://github.com/WoW-U/vscode-baneto-api))
