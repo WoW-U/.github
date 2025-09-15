@@ -10,8 +10,8 @@ tools.
 ## Unlocker
 
 - [Daemonic](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.daemonic-lua-api) ([source](https://github.com/WoW-U/vscode-daemonic-api))
-- N*****e ([DM me](https://discordapp.com/users/224628871633305611))
-- T***r (in progress) ([source](https://github.com/WoW-U/vscode-tinkr-api))
+- N*****e ([get here](https://discord.gg/gFVwhjNuKq))
+- [Tinkr](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.tinkr-lua-api) ([source](https://github.com/WoW-U/vscode-tinkr-api))
 
 ## Bot
 
