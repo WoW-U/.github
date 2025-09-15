@@ -3,6 +3,8 @@
 The main goal of the organization to bring tools for developers to make stuff for WoW. From IDE plugins to programming 
 tools.
 
+[Join Discord](https://discord.gg/EuUvfKwVze) to discuss and participate.
+
 # VSCode Plugins LUA definitions
 
 ## Unlocker
