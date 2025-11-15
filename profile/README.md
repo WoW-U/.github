@@ -16,4 +16,4 @@ tools.
 ## Bot
 
 - [GMR](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.gmr-lua-api) ([source](https://github.com/WoW-U/vscode-gmr-api))
-- [Baneto](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.baneto-lua-api)  ([source](https://github.com/WoW-U/vscode-baneto-api))
+- [Baneto](https://marketplace.visualstudio.com/items?itemName=AmsTaFFix.baneto-lua-api)  ([source](https://github.com/WoW-U/vscode-baneto-api)) (discontinued because of legal reasons)
